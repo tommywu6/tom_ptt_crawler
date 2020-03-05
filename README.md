@@ -62,7 +62,7 @@ docker ps
 
 ## Start Crawling
 
-ROCK and ROLL ~
+**ROCK and ROLL ~**
 
 
 
@@ -80,13 +80,13 @@ python3 scrapy_tom_ppt_crawer.py
 
 To see this screenshot will start crawling, and finsih will print it on the screen.
 
-![Screen Shot 2020-03-05 at 3.57.27 pm](img/Screen Shot 2020-03-05 at 3.57.27 pm.png)
+![img8](img/img8.png)
 
 
 
 It will genarate a result file called "ppt_result.csv", cause I recond the csv file is allways better to use for analysis.
 
-![Screen Shot 2020-03-05 at 3.57.54 pm](img/Screen Shot 2020-03-05 at 3.57.54 pm.png)
+![img9](img/img9.png)
 
 
 
