@@ -1,0 +1,6 @@
+Flask
+Redis
+requests
+beautifulsoup4
+lxml
+pymongo==3.5.1
