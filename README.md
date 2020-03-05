@@ -84,11 +84,15 @@ To see this screenshot will start crawling, and finsih will print it on the scre
 
 
 
+
+
+### Result in CSV file
+
 It will genarate a result file called "ppt_result.csv", cause I recond the csv file is allways better to use for analysis.
 
 ![img9](img/img9.png)
 
-
+![img10](img/img10.png)
 
 
 
